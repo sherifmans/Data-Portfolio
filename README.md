@@ -4,3 +4,7 @@
 * Engineered features from the text of each job description to quantify the value companies put on python, excel and spark
 * Optimized linear, lasso and random regressors
 * built a client facing API using flask
+
+
+# [Project 2: Ball Image Classifier] 
+* next project 
